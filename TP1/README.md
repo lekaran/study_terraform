@@ -31,16 +31,15 @@ Créer une infrastructure Terraform qui :
 
 ## 📁 Arborescence
 
-.
 ├── main.tf<br>
 ├── variables.tf<br>
 ├── outputs.tf<br>
 ├── terraform.tfvars<br>
 └── modules/<br>
-    └── user/<br>
-        ├── main.tf<br>
-        ├── variables.tf<br>
-        └── outputs.tf<br>
+&nbsp;└── user/<br>
+&nbsp;&nbsp;├── main.tf<br>
+&nbsp;&nbsp;├── variables.tf<br>
+&nbsp;&nbsp;└── outputs.tf<br>
 
 ## 🔧 Étapes
 
