@@ -165,3 +165,4 @@ output "all_users" {
 Ajouter une gestion des rôles dans un fichier locals.tf
 Générer des ressources conditionnelles selon le rôle (count ou for_each)
 Externaliser la config dans plusieurs .tfvars par environnement
+
